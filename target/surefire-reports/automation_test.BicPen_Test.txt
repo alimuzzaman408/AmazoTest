@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: automation_test.BicPen_Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 18.749 s <<< FAILURE! - in automation_test.BicPen_Test
+validate_Bicpentest(automation_test.BicPen_Test)  Time elapsed: 0.326 s  <<< FAILURE!
+java.lang.AssertionError: expected [Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more] but found [Amazon.com. Spend less. Smile more.]
+	at automation_test.BicPen_Test.validate_Bicpentest(BicPen_Test.java:16)
+

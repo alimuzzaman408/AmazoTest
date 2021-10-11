@@ -21,7 +21,9 @@ public class BicPen_Test extends BaseClass {
 		.bicpenlinkclick()
 		.navigatecamel()
 		.camelsearchBtn();
+		System.out.println("Hello I am Ali");
 		System.out.println("Hello I am shapan");
+		System.out.println("Hello I am Zerin");
 
 
 
